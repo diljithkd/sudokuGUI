@@ -14,6 +14,8 @@ python sudoku.py
 ```
 
 The Game screen looks like this - 
+
+
 ![alt text](https://github.com/diljithkd/sudokuGUI/blob/master/GameWindow.PNG?raw=true)
 
 ```
