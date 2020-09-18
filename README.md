@@ -23,7 +23,7 @@ Click on a cell and enter the number.
 
 Submit - when you feel you are done.
 
-Change the difficulty by clicking on drop down window.
+Change the difficulty by clicking on drop down menu.
 
 New game - opens a new game with selected difficulty level
 
