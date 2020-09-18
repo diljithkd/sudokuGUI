@@ -7,5 +7,7 @@ Prerequisites :
 
 
 Run the code sudoku.py
-'python sudoku.py'
+```
+python sudoku.py
+```
 
