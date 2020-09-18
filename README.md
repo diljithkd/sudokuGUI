@@ -11,3 +11,4 @@ Run the code sudoku.py
 python sudoku.py
 ```
 
+![alt text](https://github.com/diljithkd/sudokuGUI/GameWindow.PNG?raw=true)
